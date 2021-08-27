@@ -29,4 +29,6 @@ After that we select the top 50 south India restaurants and plot them, and clust
 
 Once we cluster them, we use the cluster centroids to find good locations that are not covered by the existing outlets. 
 
-All this process has been thoroughly explained as part of the code notebook along the way
+The process has been thoroughly explained as part of the code notebook. 
+
+The findings from the projects has been documented in the report notebook
